@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/merged/debug/drawable/vpn_disconnected.png",
+        "source": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/drawable/vpn_disconnected.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/merged/debug/drawable/vpn_connected.png",
+        "source": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/drawable/vpn_connected.png"
+    }
+]

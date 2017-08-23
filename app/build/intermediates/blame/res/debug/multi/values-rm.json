@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-rm/values-rm.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 82,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/values-rm/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 82,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 126,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/values-rm/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 126,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 138,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/values-rm/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 142,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 143,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/android-vpn-server1/app/src/main/res/values-rm/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 147,
+                        "endOffset": 539
+                    }
+                }
+            }
+        ]
+    }
+]

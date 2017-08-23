@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">VPN Services</string>
+    <string name="app_name">VPN Services</string>
+    <string name="l2tp_ipsec_crt_vpn_description">l2tp_ipsec_crt_vpn_description</string>
+    <string name="l2tp_ipsec_psk_vpn_description">l2tp_ipsec_psk_vpn_description</string>
+    <string name="l2tp_vpn_description">l2tp_vpn_description</string>
+    <string name="pptp_vpn_description">pptp_vpn_description</string>
+    <string name="vpn_notification_hint_disconnected">Touch to reconnect to a VPN.</string>
+    <string name="vpn_notification_title_connected"><ns1:g id="profilename">%s</ns1:g> VPN connected</string>
+    <string name="vpn_notification_title_disconnected"><ns1:g id="profilename">%s</ns1:g> VPN disconnected</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.server.vpn" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/vpn_connected"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/vpn_connected"
+        android:supportsRtl="true" >
+        <service android:name="com.android.server.vpn.VpnServiceBinder" >
+            <intent-filter>
+
+                <!--
+                     These are the interfaces supported by the service, which
+                     you can bind to.
+                -->
+                <action android:name="android.net.vpn.IVpnService" />
+                <!--
+                     This is an action code you can use to select the service
+                     without explicitly supplying the implementation class.
+                -->
+                <action android:name="android.net.vpn.SERVICE" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="org.zju.luojs.MyVpn"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

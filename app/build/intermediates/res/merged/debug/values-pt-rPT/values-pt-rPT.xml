@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4589592829302498102" name="app_label">"Serviços VPN"</string>
+    <string msgid="1952209867082269429" name="vpn_notification_hint_disconnected">"Toque para voltar a ligar a uma VPN."</string>
+    <string msgid="8598654486956133580" name="vpn_notification_title_connected">"VPN <ns1:g id="PROFILENAME">%s</ns1:g> ligado"</string>
+    <string msgid="6216572264382192027" name="vpn_notification_title_disconnected">"VPN <ns1:g id="PROFILENAME">%s</ns1:g> desligado"</string>
+</resources>

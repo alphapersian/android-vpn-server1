@@ -1,0 +1,4 @@
+#Wed Aug 23 18:22:07 IRDT 2017
+base.0=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

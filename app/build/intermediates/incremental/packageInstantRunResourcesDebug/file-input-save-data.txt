@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Aug 23 18:22:03 IRDT 2017
+1.base=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_
+4.file=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_/res/drawable/vpn_disconnected.png
+1.file=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.set=ANDROID_RESOURCE
+2.base=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_
+3.file=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_/res/drawable/vpn_connected.png
+0.file=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.base=/root/AndroidStudioProjects/android-vpn-server1/app/build/intermediates/res/resources-debug.ap_

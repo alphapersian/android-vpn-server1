@@ -1,0 +1,75 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* VpnServices/
+* VpnServices/Android.mk
+* VpnServices/AndroidManifest.xml
+* VpnServices/MODULE_LICENSE_APACHE2
+* VpnServices/NOTICE
+* VpnServices/VpnServices.iml
+* VpnServices/gen/
+* VpnServices/gen/com/
+* VpnServices/gen/com/android/
+* VpnServices/gen/com/android/server/
+* VpnServices/gen/com/android/server/vpn/
+* VpnServices/gen/com/android/server/vpn/BuildConfig.java
+* VpnServices/gen/com/android/server/vpn/Manifest.java
+* VpnServices/gen/com/android/server/vpn/R.java
+* VpnServices/src/
+* VpnServices/src/com/
+* VpnServices/src/com/android/
+* VpnServices/src/com/android/server/
+* VpnServices/src/com/android/server/vpn/
+* VpnServices/src/com/android/server/vpn/DaemonProxy.java
+* VpnServices/src/com/android/server/vpn/L2tpIpsecPskService.java
+* VpnServices/src/com/android/server/vpn/L2tpIpsecService.java
+* VpnServices/src/com/android/server/vpn/L2tpService.java
+* VpnServices/src/com/android/server/vpn/PptpService.java
+* VpnServices/src/com/android/server/vpn/VpnConnectingError.java
+* VpnServices/src/com/android/server/vpn/VpnDaemons.java
+* VpnServices/src/com/android/server/vpn/VpnService.java
+* VpnServices/src/com/android/server/vpn/VpnServiceBinder.java
+* android-vpn-server.iml
+* default.properties
+* proguard.cfg
+* res.tar
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/android/net/vpn/IVpnService.aidl => app/src/main/aidl/android/net/vpn/IVpnService.aidl
+* src/android/net/vpn/VpnProfile.aidl => app/src/main/aidl/android/net/vpn/VpnProfile.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
