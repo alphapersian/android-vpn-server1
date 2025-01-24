@@ -1,0 +1,5 @@
+/* Hide readme button */
+#readme-button {
+    visibility: hidden !important;
+}
+
